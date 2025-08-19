@@ -8,7 +8,7 @@
 
 # 👋 Hi, I'm 0x736976  
 
-🎓 Master’s in Computer Science @ Kent State University (GPA: 3.88)  
+🎓 Master’s in Computer Science @ Kent State University
 💻 Data Engineer & Full-Stack Developer | Web3 Enthusiast  
 🌍 Based in the US | Originally from India  
 🔎 Looking for **Software Engineering | Data Engineering | Web3 Developer roles**  
