@@ -6,7 +6,7 @@
 -->
 
 
-# 👋 Hi, I'm DecentralizedGlasses  
+# 👋 Hi, I'm 0x736976  
 
 🎓 Master’s in Computer Science @ Kent State University (GPA: 3.88)  
 💻 Data Engineer & Full-Stack Developer | Web3 Enthusiast  
