@@ -1,21 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm 0x736976 (SIV)  
 
-<!--
-**DecentralizedGlasses/DecentralizedGlasses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
--->
-
-
-# 👋 Hi, I'm 0x736976  
-
-🎓 Master’s in Computer Science @ Kent State University
-💻 Data Engineer & Full-Stack Developer | Web3 Enthusiast  
-🌍 Based in the US | Originally from India  
-🔎 Looking for **Software Engineering | Data Engineering | Web3 Developer roles**  
+## 👤 About Me  
+- 🎓 Master’s in **Computer Science @ Kent State University**  
+- 💻 **Data Engineer & Full-Stack Developer** | Web3 Enthusiast  
+- 👨‍🎓 Student of **Cyfrin Updraft** (Patrick Collins)  
+- 🌍 Based in the **US** | Originally from **India**  
 
 ---
 
-## 🛠️ Technologies & Tools  
+## 🛠️ Tech Stack  
 
 ### 🌐 Languages  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)  
@@ -54,21 +47,18 @@
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-3C3C3D?style=flat&logo=ethereum&logoColor=fff)  
 ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=flat&logo=chainlink&logoColor=fff)  
 
-- 🔗 Built **ERC-20 token bridges**, **DeFi lending protocols**, and **NFT marketplaces**  
-- ⚡ Passionate about **smart contract security, gas optimizations, and tokenomics**  
-
 ---
 
 ## 📌 What I’m Looking For  
-💼 **Full-time roles**: Software Engineer | Data Engineer | Web3 Developer  
-🌟 Interests: **Scalable backend systems, modern frontend apps, decentralized applications**  
-🤝 Open to **collaborations, mentorship, and Web3 projects**  
+- 💼 Full-time roles: **Web3 Developer | Software Engineer | Data Engineer | Smart Contract Developer**  
+- 🌟 Interests: **Scalable backend systems, modern frontend apps, decentralized applications**  
+- 🤝 Open to **collaborations, mentorship, and Web3 projects**  
 
 ---
 
 ## 📫 Connect with Me  
-📧 [Email](mailto:asivaji844@gmail.com)  
-💼 [LinkedIn](https://linkedin.com/in/sivajialla)  
+- 📧 [Email](mailto:asivaji844@gmail.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/sivajialla)  
 
 ---
 
@@ -79,4 +69,4 @@
 
 ---
 
-✨ *Fun fact: I love bridging Web2 and Web3 by bringing blockchain power into everyday applications!* 
+✨ *Fun fact: I love bridging Web2 and Web3 by bringing blockchain power into everyday applications!*  
