@@ -2,8 +2,8 @@
 
 ## 👤 About Me  
 - 🎓 Master’s in **Computer Science @ Kent State University**  
-- 💻 **Data Engineer & Full-Stack Developer** | Web3 Enthusiast  
-- 👨‍🎓 Student of **Cyfrin Updraft** (Patrick Collins)  
+- 💻 **Web3 Enthusiast**  
+- 👨‍🎓 Always **Student**  
 - 🌍 Based in the **US** | Originally from **India**  
 
 ---
