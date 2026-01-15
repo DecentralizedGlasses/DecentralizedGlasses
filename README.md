@@ -1,10 +1,9 @@
 # 👋 Hi, I'm 0x736976 (SIV)  
 
 ## 👤 About Me  
-- 🎓 Master’s in **Computer Science @ Kent State University**  
 - 💻 **Web3 Enthusiast**  
 - 👨‍🎓 Always **Student**  
-- 🌍 Based in the **US** | Originally from **India**  
+- 🌍 Based in the **US**
 
 ---
 
@@ -27,11 +26,9 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=fff)  
 
 ### 🗄️ Backend & Databases  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=fff)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=fff)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=fff)  
-![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=flat&logo=appwrite&logoColor=fff)  
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=fff)  
 
 ### ☁️ Cloud & DevOps  
@@ -50,9 +47,9 @@
 ---
 
 ## 📌 What I’m Looking For  
-- 💼 Full-time roles: **Web3 Developer | Software Engineer | Data Engineer | Smart Contract Developer**  
+- 💼 Full-time roles: **Security Researcher | Web3 Developer | Smart Contract Developer | Software Engineer | Data Engineer**  
 - 🌟 Interests: **Scalable backend systems, modern frontend apps, decentralized applications**  
-- 🤝 Open to **collaborations, mentorship, and Web3 projects**  
+- 🤝 Open to **collaborations, mentorship, Web3 projects, and private audits**  
 
 ---
 
