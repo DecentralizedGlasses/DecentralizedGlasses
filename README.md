@@ -1,12 +1,14 @@
 # Smart Contract Engineer & Security Researcher
 
-I am a Smart Contract Engineer and Security Researcher with 3+ years of experience designing, auditing, and testing Ethereum-based protocols.
+I am a Smart Contract Engineer and Security Researcher with 3+ years of experience building, auditing, and testing blockchain-based systems.
 
-My work focuses on **Solidity security**, **protocol correctness**, and **invariant-driven testing** for DeFi and on-chain systems. I approach smart contracts with an auditor’s mindset: understanding threat models, identifying edge cases, and validating assumptions through tooling and manual review.
+My primary focus is **Solidity security and protocol correctness**, but I also work across backend systems, tooling, and infrastructure required to ship production-grade Web3 applications.
+
+I approach development with a security-first mindset: understanding threat models, validating assumptions, and enforcing correctness through testing and invariants.
 
 ---
 
-## 🔍 Areas of Focus
+## 🔍 Core Focus
 - Smart Contract Security & Auditing
 - DeFi Protocol Design (AMMs, Raffles, Stablecoins)
 - Invariant & Property-Based Testing
@@ -15,11 +17,45 @@ My work focuses on **Solidity security**, **protocol correctness**, and **invari
 
 ---
 
-## 🛠️ Tooling & Stack
+## 🛠️ Tech Stack
+
+### Smart Contracts & Protocols
 - **Languages:** Solidity
+- **Standards:** ERC20, ERC721, ERC1155, EIP-2612, EIP-4337
 - **Frameworks:** Foundry
-- **Security Tools:** Slither, manual review, invariant testing
-- **Concepts:** Reentrancy, access control, oracle manipulation, arithmetic safety, upgrade patterns
+- **Concepts:** Reentrancy, access control, oracle manipulation, upgrade patterns, arithmetic safety
+
+---
+
+### Security & Testing
+- **Static Analysis:** Slither
+- **Testing:** Foundry (unit, fuzz, invariant testing)
+- **Audit Skills:** Manual review, threat modeling, PoC reasoning
+- **Patterns:** Checks-effects-interactions, pull payments, invariant enforcement
+
+---
+
+### Backend & Systems
+- **Languages:** TypeScript, JavaScript, Python
+- **APIs:** RESTful services
+- **Authentication:** JWT-based flows
+- **Databases:** PostgreSQL, MySQL, MongoDB
+- **Caching / Queues:** Redis (basic usage)
+
+---
+
+### Infrastructure & Tooling
+- **Containers:** Docker
+- **Cloud & DevOps:** GitHub Actions (CI), environment-based deployments
+- **Version Control:** Git, GitHub (PR-based workflows)
+- **Linux:** CLI tooling, scripting, environment setup
+
+---
+
+### Blockchain Ecosystem
+- **EVM Chains:** Ethereum, L2s (Arbitrum / Optimism familiarity)
+- **Wallets & Tooling:** MetaMask, RPC providers
+- **Cross-Chain Concepts:** Messaging, rebase tokens, bridge risk models
 
 ---
 
@@ -27,54 +63,31 @@ My work focuses on **Solidity security**, **protocol correctness**, and **invari
 
 ### 🔐 Smart Contract Audits
 **`smart-contract-audits`**  
-Security reviews and audit-style writeups of real-world protocols and learning targets.  
-Each audit includes severity classification, root cause analysis, proof-of-concept reasoning, and remediation guidance.
-
-> Focus: reasoning about security, not just running tools.
+Audit-style security reviews with severity classification, root cause analysis, proof-of-concept reasoning, and remediation guidance.
 
 ---
 
 ### 🧪 Security Labs & Invariants
 **`foundry-security-labs`**  
-A collection of focused security experiments using Foundry:
-- Invariant testing
-- Fuzzing
-- Reentrancy simulations
-- Randomness and fairness failures
-- Access control edge cases
-
-Designed to demonstrate how vulnerabilities are *discovered*, not just described.
+Focused experiments demonstrating vulnerability discovery using fuzzing and invariant testing.
 
 ---
 
 ### ⚙️ Protocol Implementations
-**StableCoin & DeFi Protocols**  
-End-to-end protocol implementations emphasizing correctness, testing, and upgrade safety.
-
-Includes:
-- Stablecoin mechanics
-- Cross-chain and rebase patterns
-- Account abstraction experiments
+End-to-end DeFi and protocol implementations emphasizing correctness, security, and testing discipline.
 
 ---
 
 ### 📚 Protocol & Security Notes
-**`protocol-notes`**  
-Concise technical writeups on:
-- Randomness on EVM
-- Invariant design
-- Upgradeability risks (UUPS / proxies)
-- MEV considerations
-
-Written for engineers and auditors, not beginners.
+Concise technical writeups on protocol design decisions, trade-offs, and common security failures.
 
 ---
 
 ## 🧠 How I Work
 - Start from **threat modeling**
-- Validate assumptions with **tests and invariants**
-- Prefer **simple, explicit logic** over clever abstractions
-- Treat audits as **engineering problems**, not checklist exercises
+- Validate assumptions through **tests and invariants**
+- Prefer **simple, explicit logic** over fragile abstractions
+- Treat security as an **engineering discipline**, not a checklist
 
 ---
 
@@ -83,5 +96,5 @@ Written for engineers and auditors, not beginners.
 
 ---
 
-> This GitHub serves as a record of my work in smart contract engineering and security research.  
-> All repositories are for educational, research, and auditing practice purposes.
+> This GitHub represents my work in smart contract engineering, security research, and supporting backend systems.  
+> Repositories are maintained for research, auditing practice, and production-style experimentation.
