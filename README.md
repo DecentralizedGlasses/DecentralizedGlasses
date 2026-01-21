@@ -28,7 +28,7 @@ I approach development with a security-first mindset: understanding threat model
 ---
 
 ### Security & Testing
-- **Static Analysis:** Slither
+- **Static Analysis:** Slither, Aderyn, Echidna
 - **Testing:** Foundry (unit, fuzz, invariant testing)
 - **Audit Skills:** Manual review, threat modeling, PoC reasoning
 - **Patterns:** Checks-effects-interactions, pull payments, invariant enforcement
