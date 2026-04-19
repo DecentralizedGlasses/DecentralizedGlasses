@@ -20,7 +20,7 @@ I approach development with a security-first mindset: understanding threat model
 ## 🛠️ Tech Stack
 
 ### Smart Contracts & Protocols
-- **Languages:** Solidity
+- **Languages:** Solidity, Go, Rust
 - **Standards:** ERC20, ERC721, ERC1155, EIP-2612, EIP-4337
 - **Frameworks:** Foundry
 - **Concepts:** Reentrancy, access control, oracle manipulation, upgrade patterns, arithmetic safety
